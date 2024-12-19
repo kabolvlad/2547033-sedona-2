@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Владислав Каболов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2547033).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Ермолаев] (https://htmlacademy.ru/profile/yermolayev).
 
 ---
 
