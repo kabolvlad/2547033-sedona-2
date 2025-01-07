@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Владислав Каболов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2547033).
-* Наставник: [Владислав Ермолаев] (https://htmlacademy.ru/profile/yermolayev).
-* Сайт: [Проект Седона] (https://kabolvlad.github.io/2547033-sedona-2/)
+* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/yermolayev).
+* Сайт: [Проект Седона](https://kabolvlad.github.io/2547033-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
