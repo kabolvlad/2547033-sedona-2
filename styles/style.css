@@ -117,19 +117,20 @@ h2, h3 {
     width: 1200px;
     height: 485px;
     position: relative;
-    background-image: url('/images/index-background.jpg');
+    background-image: url('../images/index-background.jpg');
     background-repeat: no-repeat;
 }
 
 .welcome-text-image {
     position: absolute;
     top: 51px;
+
     left: 50%;
     transform: translateX(-50%);
 }
 
 .welcome::after {
-    content: url(/images/index-background-mask.svg);
+    content: url('/images/index-background-mask.svg');
     position: absolute;
     height: 57px;
     bottom: 0;
@@ -233,7 +234,7 @@ h2, h3 {
 }
 
 .advantages-item p::after {
-    content: url('/images/advantages-text-separator-white.svg');
+    content: url('../images/advantages-text-separator-white.svg');
     position: absolute;
     left: 0;
     right: 0;
@@ -241,7 +242,7 @@ h2, h3 {
 }
 
 .advantages-item:not(.advantages-item:first-child):not(.advantages-item:last-child)::after {
-    content: url('/images/advantages-text-separator-black.svg');
+    content: url('../images/advantages-text-separator-black.svg');
     position: absolute;
     left: 0;
     right: 0;
@@ -305,7 +306,7 @@ h2, h3 {
 }
 
 .services-house::before {
-    content: url('/images/services-house.svg');
+    content: url('../images/services-house.svg');
     position: absolute;
     top: 101px;
     left: 50%;
@@ -313,7 +314,7 @@ h2, h3 {
 }
 
 .services-food::before {
-    content: url('/images/services-food.svg');
+    content: url('../images/services-food.svg');
     position: absolute;
     top: 101px;
     left: 50%;
@@ -321,7 +322,7 @@ h2, h3 {
 }
 
 .services-presents::before {
-    content: url('/images/services-presents.svg');
+    content: url('../images/services-presents.svg');
     position: absolute;
     top: 101px;
     left: 50%;
@@ -360,7 +361,7 @@ h2, h3 {
     width: 684px;
     height: 215px;
     padding: 96px 258px 104px 258px;
-    background-image: url('/images/subscribe.jpg');
+    background-image: url('../images/subscribe.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -416,19 +417,19 @@ h2, h3 {
 }
 
 .vk::before {
-    content: url('/images/vk.svg');
+    content: url('../images/vk.svg');
     width: 24px;
     height: 14px;
 }
 
 .telegram::before {
-    content: url('/images/telegram.svg');
+    content: url('../images/telegram.svg');
     width: 24px;
     height: 14px;
 }
 
 .youtube::before {
-    content: url('/images/youtube.svg');
+    content: url('../images/youtube.svg');
     width: 24px;
     height: 14px;
 }
